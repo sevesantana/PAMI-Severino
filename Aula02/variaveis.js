@@ -26,5 +26,3 @@ console.log(texto + numero);
 // oQueEisso = "uma constante????"
 
 // console.log(oQueEisso)
-
-// teste
